@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32929.385
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "Python_Bank", "Python_Bank\Python_Bank.pyproj", "{05EE3F4C-5CAE-4FA2-8527-A0E61FFF5985}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{05EE3F4C-5CAE-4FA2-8527-A0E61FFF5985}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{05EE3F4C-5CAE-4FA2-8527-A0E61FFF5985}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0EEEC97B-38C9-4D42-8D8E-4C7A71000B28}
+	EndGlobalSection
+EndGlobal
